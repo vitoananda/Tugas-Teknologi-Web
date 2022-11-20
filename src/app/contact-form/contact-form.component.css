@@ -1,0 +1,24 @@
+body {
+    padding: 20px;
+}
+
+.form-control.ng-touched.ng-invalid{
+    border: 2px solid red;
+}
+
+h4{
+    margin-top: 1rem;
+}
+
+.radio-group{
+    margin-bottom: 3rem;
+}
+
+hr{
+    border-top: 5px dotted;
+}
+
+form{
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
